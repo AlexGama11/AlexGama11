@@ -10,9 +10,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgama11&layout=compact&theme=transparent&hide=c,objective-c" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexgama11&repo=secret-santa-sorter&theme=transparent" />
-</a>
 
 <!---
 AlexGama11/AlexGama11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
