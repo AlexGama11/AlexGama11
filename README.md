@@ -5,10 +5,10 @@
 - 📫 How to reach me: email me at alexgama1612@gmail.com or through my website: https://alexmango.tk
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readmestats.vercel.app/api?username=alexgama11&count_private=true&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexgama11&count_private=true&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readm-stats.vercel.app/api/top-langs/?username=alexgama11&layout=compact&theme=transparent&hide=c,objective-c" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgama11&layout=compact&theme=transparent&hide=c,objective-c" />
 </a>
 
 <!---
